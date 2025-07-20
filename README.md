@@ -1,8 +1,9 @@
-Portfólio de Pedro Araujo - Desenvolvedor Front-End
-📌 Visão Geral
+# Portfólio de Pedro Araujo - Desenvolvedor Front-End
+
+# 📌 Visão Geral
 Portfólio profissional de Pedro Araujo, desenvolvedor web front-end de Uberlândia-MG, destacando projetos criativos, habilidades técnicas e informações de contato.
 
-� Tecnologias Utilizadas
+# � Tecnologias Utilizadas
 
 HTML5
 
@@ -10,7 +11,7 @@ CSS3
 
 JavaScript
 
-🎯 Projetos Destacados
+# 🎯 Projetos Destacados
 1. Multiverse of Spider-Man
 Descrição: Projeto inspirado no multiverso do Homem-Aranha
 
@@ -27,7 +28,7 @@ Controle de vidas
 
 Cronômetro
 
-👨‍💻 Sobre o Desenvolvedor
+# 👨‍💻 Sobre o Desenvolvedor
 Nome: Pedro Araújo
 Localização: Uberlândia-MG, Brasil
 Formação: Ciência da Computação na Universidade do Triângulo Mineiro (UNITRI) - Fev/2023 até o presente
@@ -39,7 +40,7 @@ HTML, CSS e JavaScript desde a adolescência
 
 (Outras habilidades técnicas)
 
-📞 Contato
+# 📞 Contato
 Email: pa298571@gmail.com
 Redes Sociais: 
 
@@ -51,7 +52,7 @@ Instagram
 
 Disponibilidade: Aberto a serviços e novas conexões profissionais
 
-©️ Direitos
+# ©️ Direitos
 © 2025 - Todos os direitos reservados - Portfolio Pedro Araújo
 
 "Conhecimento nas principais tecnologias do mercado" - Foco profissional
